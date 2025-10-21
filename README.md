@@ -4,7 +4,7 @@
 💬 Ask me about Python, Pandas, and Data Analysis  
 📫 How to reach me: [www.linkedin.com/in/hafsa904]
 ### 📊 My GitHub Stats
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa3368&show_icons=true&theme=tokyonight)
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsa3368&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsa3368&layout=compact&theme=tokyonight)
 
