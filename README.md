@@ -10,3 +10,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
 
+- 🔭 I’m working on Data Science Projects  
+- 🌱 I’m learning Machine Learning  
+- 🤝 I’m looking to collaborate on Python projects  
+- 📫 Reach me at:hafsajavaid904@gmail.com
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
